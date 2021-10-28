@@ -1,7 +1,7 @@
 // 'use strict';
 
 
-let anyNumber = +prompt('Enter number from 0 to 9', 4);
+let anyNumber = prompt('Enter number from 0 to 9', 4);
 
 let bag = [
    'zero',
